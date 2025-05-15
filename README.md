@@ -3,7 +3,7 @@
 
 ## Objective
 
-Your task is to implement an algorithm that finds the shortest path from the start to the exit in a maze in the **MazePeoblem.py** file included in the repo.
+Your task is to implement an algorithm that finds the shortest path from the start to the exit in a maze in the **MazeProblem.py** file included in the repo.
 
 ## Maze Representation
 
