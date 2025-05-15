@@ -54,5 +54,8 @@ Your algorithm should find the **shortest path from the start to the destination
   - Your code must solve the 4 examples included in the ****MazeProblem.py file
 
   - Keep your code modular and readable
-
+    
+### Resource
+You can follow the link bellow to set your SSH keys to your github account:
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-SSH-Windows-Example 
 
